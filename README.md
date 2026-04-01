@@ -6,3 +6,5 @@ Use the Jupyter Notebook to reproduce the table, or [download the full table fro
 Gaia DR3 IDs are now included on the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu) and the [ExoFOP](https://exofop.ipac.caltech.edu).
 
 You can search for individual or multiple Gaia DR3 IDs for TIC targets using the [search service on the ExoFOP](https://exofop.ipac.caltech.edu/tess/find_ticid.php).
+
+A research note detailing the full process is now available on [arXiv](https://arxiv.org/abs/2603.28850). The link to the research note will be made available upon publication.
