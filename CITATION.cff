@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hardegree-Ullman"
+  given-names: "Kevin"
+  orcid: "https://orcid.org/0000-0003-3702-0382"
+title: "Gaia DR3 IDs for TESS Input Catalog Targets"
+version: 1.0.0
+doi: 10.5281/zenodo.19411431
+date-released: 2026-04-01
+url: "https://github.com/kevinkhu/ticgaia"
